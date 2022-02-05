@@ -10,7 +10,7 @@ How to install and use:
 
 <h1>TODO:</h1>
   <ul>
-  <li>flags: -h - help, -l - lists all available versions by default, -p - change download path</li>
+  <li>-l - lists all available versions by default</li>
   <li>gui?</li>
   <li>check for another versions in folder</li>
-  <li>check if version exists</li>
+  <li>check if version exists + lower versions support, such as b70</li>
