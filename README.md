@@ -9,7 +9,8 @@ How to install and use:
 4. This will download "Mindustry.jar" to your desktop, **will remove Mindustry.jar from desktop if it exists**
 
 <h1>TODO:</h1>
-  flags
-  download path
-  gui?
-  
+  <ul>
+  <li>flags: -h - help, -l - lists all available versions by default, -p - change download path</li>
+  <li>gui?</li>
+  <li>check for another versions in folder</li>
+  <li>check if version exists</li>
